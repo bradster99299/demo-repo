@@ -1,5 +1,4 @@
-# demo-repo
-This is the repository for the demo project
+Created Bio for README
 My name is Benajamin Bradley Rivers. 
 I'm from Dixon, MS, but most recognize the nearest towns, Philadelphia and Union. 
 I'm twenty six in November and the reason that I'm a little older in school is because I went to a junior college and learned a trade first. 
